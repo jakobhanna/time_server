@@ -20,7 +20,7 @@ void err(char *msg)
   exit(EXIT_FAILURE);
 }
 
-// create a new socke
+// create a new socket
 int createSocket()
 {
 }
